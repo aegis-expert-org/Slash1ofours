@@ -1,5 +1,6 @@
+<!-- 產品／專案：Slash1ofours｜法人／事業體：斜槓104 / Slash104（獨立法人；完整法定名稱 [暫定]／[待確認]）｜日期：2026-11-11（Asia/Taipei）｜草稿 v0.3 -->
 # Slash1ofours
-C2-AE-S14 斜槓104 Slash1ofours 企業級領域知識與智財數位分身平台  for 中大型企業、研發團隊、顧問機構
+C2-AE-S14 斜槓104 Slash104 企業級領域知識與智財數位分身平台  for 中大型企業、研發團隊、顧問機構
 # 斜槓104 (slash1ofours.com) - 企業級領域知識與智慧財產數位分身授權平台
 
 [![Repository Archetype: Functional App](https://img.shields.io/badge/Archetype-C3--Functional--App-blue.svg)](#)
@@ -7,7 +8,7 @@ C2-AE-S14 斜槓104 Slash1ofours 企業級領域知識與智財數位分身平�
 [![Domain](https://img.shields.io/badge/Domain-aegis.expert-green.svg)](#)
 [![Security Level](https://img.shields.io/badge/Security-FHE%20%2F%20Zero--Knowledge%20Enterprise%20ACL-critical.svg)](#)
 
-> **核心定位**：延伸自「斜槓123」，主體由**個人專家**升級為**公司、團隊與專案組**。分身代表整組團隊領域知識與智慧財產（IP），而非單一個人。平台本身**不訓練模型、不收存明文知識包**，而是將多位成員在地端 **FHE AI NAS** 受保護區貢獻、審核併入的組織智慧，轉化為「歸屬公司、多層授權（對內/對外）、可計量、可稽核」之企業數位分身權利交易與驗證中樞。
+> **核心定位**：延伸自「斜槓一二三」，主體由**個人專家**升級為**公司、團隊與專案組**。分身代表整組團隊領域知識與智慧財產（IP），而非單一個人。平台本身**不訓練模型、不收存明文知識包**，而是將多位成員在地端 **FHE AI NAS** 受保護區貢獻、審核併入的組織智慧，轉化為「歸屬公司、多層授權（對內/對外）、可計量、可稽核」之企業數位分身權利交易與驗證中樞。
 
 ---
 
@@ -24,9 +25,9 @@ C2-AE-S14 斜槓104 Slash1ofours 企業級領域知識與智財數位分身平�
 
 ---
 
-## 2. 與「斜槓123」架構對應矩陣
+## 2. 與「斜槓一二三」架構對應矩陣
 
-| 構面 | 斜槓123 (`slash1to3.com`) | 斜槓104 (`slash1ofours.com`) |
+| 構面 | 斜槓一二三 (`slash1to3.com`) | 斜槓104 (`slash1ofours.com`) |
 | :--- | :--- | :--- |
 | **法律與經濟主體** | 個人專家 | 公司、法人、團隊、專案組 |
 | **分身代表內容** | 個人專業知識與經歷 | 團隊跨職能領域知識與企業智財（IP） |
@@ -258,3 +259,17 @@ pnpm test:security:ip-isolation
 * **QA & 驗收簽核團隊**：`qa-aegis-slash1ofours-app@aegis.expert`
 * **Collaborator 協同開發組**：`collab-aegis-slash1ofours-app@aegis.expert`
 * **全域資安應變應急 (CSIRT)**：`github-security@wonderland.center`
+
+
+## v0.3 變更註記（2026-11-11，Asia/Taipei）
+
+品牌：斜槓104 / Slash104；官方網域 `slash1ofours.com`，備用 `1ofour.com`。兩者不代表網域持有人或法人登記已核驗。
+
+僅修正本次涉及之品牌顯示名稱、網域文字及與 t12u 直接衝突的法人關係段落；repo／org、技術代碼、URL、路徑、分支及 email local part 均未變更。品牌與網域確認不代表內容核准；本文件為草稿 v0.3，其他來源規格僅供參考，未驗證的功能、效能、時程及合規不得視為核准。
+
+### 人工審核清單
+
+- 完整法定名稱、登記資訊、設立沿革、網域持有人與技術協作／託管契約仍以已確認錨點為限，其他 [待確認] 標註維持。
+- 既有版權權利人與授權條款未由本次品牌修訂推定變更；請確認 README 的版權行及 LICENSE 第 189 行 `Copyright [yyyy] [name of copyright owner]` 範本尚未填寫之權利人與年份。
+- 保留的技術 URL／徽章／代碼若含歷史文字，並非現行品牌或法人歸屬聲明；如需替換 URL 或改名須另行確認。
+- 其餘效能、法遵、交付與產品主張未經核驗，均待人工審核，不因本次修字或 PR 合併視為核准。
