@@ -258,7 +258,7 @@ pnpm test:security:ip-isolation
 * **Lead Architect / 開發負責人**：`dev-aegis-slash1ofours-app@aegis.expert`
 * **QA & 驗收簽核團隊**：`qa-aegis-slash1ofours-app@aegis.expert`
 * **Collaborator 協同開發組**：`collab-aegis-slash1ofours-app@aegis.expert`
-* **全域資安應變應急 (CSIRT)**：`github-security@wonderland.center`
+* **全域資安應變應急 (CSIRT)**：`github-security@wonderland.ngo`
 
 
 ## v0.3 變更註記（2026-11-11，Asia/Taipei）
